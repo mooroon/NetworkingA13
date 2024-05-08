@@ -34,6 +34,7 @@ Download the project from here:
 
 ### 1. Create the following network
 ![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screen%20Shot%202024-05-08%20at%208.41.11%20pm.png)
+
 You should include
 - 3 PCs
 - 1 Server
@@ -75,7 +76,7 @@ Now that we have assigned IP addresses we can configure the firewall
 
 ![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-40-48.png)
 
-### 4. Test IP protocol 
+### 4. Test ICMP protocol 
 We can test what we have just configured by pinging the Server from a PC
 - Click any PC
 - Go to desktop and then command prompt
@@ -87,7 +88,7 @@ As shown by the image, all requests should time out, this means we've successful
 
 ![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-41-45.png)
 
-### 5. web browser
+### 5. Test IP protocol using the browser
 Now we can see if we have successfully allowed the IP protocol
 
 - Go to the web browser on your PC
