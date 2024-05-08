@@ -17,7 +17,7 @@ Download the project from here:
 - One Switch
 - 5506 ASA Firewall
 
-![](Screenshot from 2024-05-08 09-03-39.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/Screenshot%20from%202024-05-08%2009-03-39.png)
 
 
 ### 2. Go to CLI on the firewall
@@ -92,7 +92,7 @@ ciscoasa(config)#write memory
 ```
 
 When your little yellow dot turns green we can test the DHCP.
-
+![](https://github.com/mooroon/NetworkingA13/blob/main/Screenshot%20from%202024-05-08%2009-19-35.png)
 ### 3. Convert Ip addresses to DHCP
 On each device go to Desktop and then to IP Configuration and ensure the congfiguration is set to DHCP rather than static. Do on all devices.
 
