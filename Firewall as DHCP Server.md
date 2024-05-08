@@ -1,7 +1,7 @@
 # Configuring Firewalls as DHCP Servers
 
 ## Topics covered
-- How to Use a firewall as a DHCP
+- How to use a firewall as a DHCP
 
 
 
