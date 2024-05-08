@@ -9,7 +9,7 @@ This lesson will help you to configure a network that includes a firewall.
 At the end of this recipe, you will know how to:
 - Answer: What is a firewall?
 - Answer: How do firewalls work?
-- Build the following network and configure a firewall
+- Build a network and configure a firewall
 
 
 ## What is a Firewall?
