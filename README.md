@@ -1,5 +1,4 @@
 # NetworkingA13
-## Summary
 ## Intended order of lessons
 1. Firewall Intro
 2. Firewall as DHCP Server
@@ -14,3 +13,5 @@ https://www.youtube.com/watch?v=hfyLjRZmEFc
 https://www.youtube.com/watch?v=KPifddrsUmo
 
 https://www.youtube.com/watch?v=Lyc_EXEhJsk&list=TLPQMDgwNTIwMjSxUC1iPWe2-w&index=2
+
+https://www.youtube.com/watch?v=k4LaR0WDhF4&list=PLvUOx2WG6R7NVLwLGB8ZU2qyCpxyqn8nd&index=4
