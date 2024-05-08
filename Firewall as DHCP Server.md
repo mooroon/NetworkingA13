@@ -17,7 +17,7 @@ Download the project from here:
 - One Switch
 - 5506 ASA Firewall
 
-![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-03-39.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/DScreenshot%20from%202024-05-08%2009-03-39.png)
 
 
 ### 2. Go to CLI on the firewall
@@ -85,7 +85,7 @@ ciscoasa(config-if)#exit
 ```
 Hopefully now your network will look like this, no red in sight. One last step:
 
-![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screen%20Shot%202024-05-08%20at%208.27.45%20pm.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/DONEScreen%20Shot%202024-05-08%20at%208.27.45%20pm.png)
 
 ```cmd
 
@@ -94,7 +94,7 @@ ciscoasa(config)#write memory
 ```
 
 When your little yellow dot turns green we can test the DHCP.
-![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-19-35.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/DScreenshot%20from%202024-05-08%2009-19-35.png)
 
 ### 3. Convert Ip addresses to DHCP
 On each device go to Desktop and then to IP Configuration and ensure the congfiguration is set to DHCP rather than static. Do on all devices.
