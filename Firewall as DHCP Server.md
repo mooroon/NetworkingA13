@@ -116,3 +116,9 @@ You should recieve replies if the network is successful.
 ![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-22-49.png)
 
 ### Hooray! You have completed this lesson and established a very secret and protected network :D
+
+## Challenge
+Can you figure out how to add a password to your firewall
+
+Hint: use command line interface 
+
