@@ -32,15 +32,19 @@ ASA is a type of firewall appliance developed by Cisco Systems. It combines the 
 
 Download the project from here: 
 
-1. Create the following network
-![step one](https://drive.google.com/file/d/1zPnn5o-un3SZo936pThViXUNscErqccg/view?usp=drive_link)
+### 1. Create the following network
+![step one](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screen%20Shot%202024-05-08%20at%208.41.11%20pm.png)
+You should include
+- 3 PCs
+- 1 Server
+- 1 Switch
 
-2. Configure all ip addresses and subnet masks of pcs and servers
+### 2. Configure all ip addresses and subnet masks of pcs and servers
 
-3. go to ipv4 firewall on server's desktop
+### 3. go to ipv4 firewall on server's desktop
 
-4. ping computer 
+### 4. ping computer 
 
-5. web browser
+### 5. web browser
 
 ## Practice Questions
