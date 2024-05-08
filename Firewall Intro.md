@@ -9,7 +9,6 @@ At the end of this recipe, you will know how to:
 - Answer: How do firewalls work?
 - Build the following network and configure a firewall
 
-*insert *  
 
 ## What is a Firewall?
 How do you stop people from reaching internal systems that they aren’t supposed to? 
@@ -21,7 +20,7 @@ ASA is a type of firewall appliance developed by Cisco Systems. It combines the 
 
 ### Things you'll need to know before you start this
 
-- Ip Configuration *maybe insert adam's tutorial*
+- [Ip Configuration](https://github.com/carteras/cookbook/blob/main/networks/000.hello_packettracer.md)
 
 ### Third party resources
 
@@ -33,18 +32,23 @@ ASA is a type of firewall appliance developed by Cisco Systems. It combines the 
 Download the project from here: 
 
 ### 1. Create the following network
-![step one](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screen%20Shot%202024-05-08%20at%208.41.11%20pm.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screen%20Shot%202024-05-08%20at%208.41.11%20pm.png)
 You should include
 - 3 PCs
 - 1 Server
 - 1 Switch
 
 ### 2. Configure all ip addresses and subnet masks of pcs and servers
-
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-37-57.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-38-03.png)
 ### 3. go to ipv4 firewall on server's desktop
-
+- make sure service is turned on
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-38-49.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-39-48.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-40-48.png)
 ### 4. ping computer 
-
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-41-45.png)
 ### 5. web browser
-
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-41-55.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-42-23.png)
 ## Practice Questions
