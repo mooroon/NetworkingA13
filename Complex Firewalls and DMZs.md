@@ -12,8 +12,11 @@ At the end of this lesson, you will know:
 ## Key Terms
 - DMZ
 - ASA
+ASA is a type of firewall appliance developed by Cisco Systems
 - AAA
+AAA stands for Authentication, Authorization, and Accounting. AAA is a security framework that controls access to computer resources, enforces policies, and audits usage.
 - SSH Configuration
+The SSH protocol creates a secure connection between two remote machines. An SSH config file helps easily configure the default values for these connections and enables efficient streamlining of SSH connections.
 - SSH Timeout
 SSH timeouts are the maximum amount of time that an SSH session can remain idle or inactive before it is closed by either the client or the server
 - RSA Key Pair
