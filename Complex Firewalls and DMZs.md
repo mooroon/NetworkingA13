@@ -1,6 +1,6 @@
 # Complex Firewalls and DMZs
 
-This lesson will expand on knowledge of firewalls and introduce the idea of a DMZ. This lesson will start easy and get progressively harder
+This lesson will expand on knowledge of firewalls and introduce the idea of a DMZ. This lesson will start easy and get progressively harder. This project doesn't have tests/marking on packet tracer as it is intended to be a bit of a play space. 
 
 ## Topics covered
 
