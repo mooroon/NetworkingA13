@@ -1,7 +1,8 @@
 # Firewalls
 
 This lesson will help you to configure a network that includes a firewall
-Keep in mind that the images may not show correct IP addresses and subnet masks, follow instructions in the packet tracer files or what is written in this file.
+
+*Keep in mind that the images may not show correct IP addresses and subnet masks, follow instructions in the packet tracer files or what is written in this file.*
 
 ## Topics covered
 
