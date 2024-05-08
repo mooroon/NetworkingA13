@@ -95,14 +95,17 @@ ciscoasa(config)#write memory
 
 When your little yellow dot turns green we can test the DHCP.
 ![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-19-35.png)
+
 ### 3. Convert Ip addresses to DHCP
 On each device go to Desktop and then to IP Configuration and ensure the congfiguration is set to DHCP rather than static. Do on all devices.
+
 ![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-22-17.png)
 ![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-21-50.png)
 
 
 ### 4. test using command prompt
 Choose any PC, it should work for any, and return to the Desktop, this time go to command prompt and attempt to ping.
+
 ![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-22-17.png)
 ```bash
 
