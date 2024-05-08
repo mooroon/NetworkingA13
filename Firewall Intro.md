@@ -1,6 +1,6 @@
 # Firewalls
 
-This recipe will help configure a  network that includes a firewall
+This lesson will help you to configure a network that includes a firewall
 Keep in mind that the images may not show correct IP addresses and subnet masks, follow instructions in the packet tracer files or what is written in this file.
 
 ## Topics covered
@@ -44,8 +44,11 @@ You should include
 Configure the PCs and server with IPv4 address and Subnet Mask according to the IPs given:
 
 Server = 10.13.10.1	255.0.0.0
+
 PC0 =	10.13.10.2	255.0.0.0
+
 PC1	= 10.13.10.3	255.0.0.0
+
 PC2	= 10.13.10.4	255.0.0.0
 
 We can do this by going to Desktop on each PC/Server and using IP Configuration, ensuring it is set as static and then typing the IP address and subnet mask into their respective fields.
