@@ -12,3 +12,5 @@ https://www.geeksforgeeks.org/basic-firewall-configuration-in-cisco-packet-trace
 https://www.youtube.com/watch?v=hfyLjRZmEFc
 
 https://www.youtube.com/watch?v=KPifddrsUmo
+
+https://www.youtube.com/watch?v=Lyc_EXEhJsk&list=TLPQMDgwNTIwMjSxUC1iPWe2-w&index=2
