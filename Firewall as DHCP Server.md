@@ -6,7 +6,7 @@
 
 
 ### Things you'll need to know before you start this
-* [What is a Firewall?](https://github.com/mooroon/cookbooks/blob/main/IMAGES/Firewalls.md)
+* [What is a Firewall?](https://github.com/mooroon/cookbooks/blob/main/Firewalls.md)
 
 ## Instructions
 
@@ -17,7 +17,7 @@ Download the project from here:
 - One Switch
 - 5506 ASA Firewall
 
-![](https://github.com/mooroon/NetworkingA13/blob/main/Screenshot%20from%202024-05-08%2009-03-39.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-03-39.png)
 
 
 ### 2. Go to CLI on the firewall
@@ -85,7 +85,7 @@ ciscoasa(config-if)#exit
 ```
 Hopefully now your network will look like this, no red in sight. One last step:
 
-![](https://github.com/mooroon/NetworkingA13/blob/main/Screen%20Shot%202024-05-08%20at%208.27.45%20pm.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screen%20Shot%202024-05-08%20at%208.27.45%20pm.png)
 
 ```cmd
 
@@ -94,22 +94,22 @@ ciscoasa(config)#write memory
 ```
 
 When your little yellow dot turns green we can test the DHCP.
-![](https://github.com/mooroon/NetworkingA13/blob/main/Screenshot%20from%202024-05-08%2009-19-35.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-19-35.png)
 ### 3. Convert Ip addresses to DHCP
 On each device go to Desktop and then to IP Configuration and ensure the congfiguration is set to DHCP rather than static. Do on all devices.
-![](https://github.com/mooroon/NetworkingA13/blob/main/Screenshot%20from%202024-05-08%2009-22-17.png)
-![](https://github.com/mooroon/NetworkingA13/blob/main/Screenshot%20from%202024-05-08%2009-21-50.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-22-17.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-21-50.png)
 
 
 ### 4. test using command prompt
 Choose any PC, it should work for any, and return to the Desktop, this time go to command prompt and attempt to ping.
-![](https://github.com/mooroon/NetworkingA13/blob/main/Screenshot%20from%202024-05-08%2009-22-17.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-22-17.png)
 ```bash
 
 C:\>ping 10.13.10.13
 
 ```
 You should recieve replies if the network is successful.
-![](https://github.com/mooroon/NetworkingA13/blob/main/Screenshot%20from%202024-05-08%2009-22-49.png)
+![](https://github.com/mooroon/NetworkingA13/blob/main/IMAGES/Screenshot%20from%202024-05-08%2009-22-49.png)
 
 ### Hooray! You have completed this lesson and established a very secret and protected network :D
