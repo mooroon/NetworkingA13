@@ -3,6 +3,15 @@
 1. Firewall Intro
 2. Firewall as DHCP Server
 3. Complex Firewalls and DMZs
+## Evidence/Summary
+Evidence has been submitted which describes, in detail, what methodology, strategy, or procedures, were employed in developing the project. Highlighting relevant theories, concepts, or principals. 
+You have provided evidence of the process you used to design your task. This evidence should highlight relevant design artefacts and show how the author evaluated materials, data, or systems to ensure that they met the primary requirements of the assignment. 
+Evidence has been submitted that illustrates how your research project ventured beyond your existing knowledge or explicit teaching, what risks in design or execution were taken. 
+Evidence has been submitted that illustrates the underlying complexity of your project. 
+
+
+
+
 ## Bibliography
 https://www.youtube.com/watch?v=SW3QrbT11HQ
 
