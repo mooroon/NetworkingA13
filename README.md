@@ -8,7 +8,9 @@ This research project focuses on the development of a comprehensive guide or "co
 - The sources I used for researching this activity can be found below in the bibliography
 - Evidence for the development of these tutorials can be found in the history of this repository and also my original repository for this project, which was my first draft. This first draft was abandoned for the sake of a final project that was easy to navigate and not ugly to look at. [Here is a link to that repository](https://github.com/mooroon/cookbooks)
 - Here is some evidence of the creation process of the packet tracer files:
-
+- https://github.com/mooroon/NetworkingA13/blob/main/Packet%20Tracer%20Files/firewallasdhcp.pkt
+- https://github.com/mooroon/NetworkingA13/blob/main/Packet%20Tracer%20Files/firstcheck.pka
+- https://github.com/mooroon/NetworkingA13/blob/main/Packet%20Tracer%20Files/originalfirewall.pkt
   
 The development process involved extensive research into ASA Firewalls and GitHub, including learning how to use GitHub for version control and collaboration. The project utilized various design artifacts, such as step-by-step tutorials, packet tracer files, and challenge activities, to ensure clarity and effectiveness. 
 
