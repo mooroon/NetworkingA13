@@ -58,7 +58,7 @@ Now we have set our firewall to MAXIMUM security we can also configure it as a D
 ```cmd
 
 ciscoasa(config)#dhcpd ?
-ciscoasa(config)#dhcpd address 10.13.10.20-10.13.10.12 INSIDE
+ciscoasa(config)#dhcpd address 10.13.10.20-10.13.10.22 INSIDE
 
 ```
 Just like setting up a typical server for DHCP we can state how big our IP pool address range is, because we are making a top secret, super elite network with only three computers I have only included three addresses in the pool.
