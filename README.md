@@ -11,6 +11,7 @@ This research project focuses on the development of a comprehensive guide or "co
 - https://github.com/mooroon/NetworkingA13/blob/main/Packet%20Tracer%20Files/firewallasdhcp.pkt
 - https://github.com/mooroon/NetworkingA13/blob/main/Packet%20Tracer%20Files/firstcheck.pka
 - https://github.com/mooroon/NetworkingA13/blob/main/Packet%20Tracer%20Files/originalfirewall.pkt
+- https://github.com/mooroon/NetworkingA13/blob/main/Packet%20Tracer%20Files/complex%20firewalls.pkt 
   
 The development process involved extensive research into ASA Firewalls and GitHub, including learning how to use GitHub for version control and collaboration. The project utilized various design artifacts, such as step-by-step tutorials, packet tracer files, and challenge activities, to ensure clarity and effectiveness. 
 
