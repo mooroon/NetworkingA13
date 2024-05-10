@@ -51,7 +51,7 @@ For example in the previous lesson our network had a security level of 100 but a
 ## Instructions
 Canberra College needs your help! There are rumours about a security threat coming from an outside network and you need to help stop it. You don't know much about the threat but what you do know is that your networking class can be trusted and the other networking class can be partially trusted but you need to keep an eye out. From what you've heard, the drama faculty wants your classroom as a rehearsal space and will go to any lengths to compromise it. You have been informed that you have to limit their access but not completely or they will get suspicious. You suspect a DMZ allowed by a firewall, using the other networking class' network will do the trick. 
 
-Download the project from here: 
+Download the project from here: [Complex Firewalls and DMZs](https://github.com/mooroon/NetworkingA13/blob/main/Packet%20Tracer%20Files/complex%20firewalls%20and%20dmz.pkt)
 
 ### 1. Connect them All Together
 
